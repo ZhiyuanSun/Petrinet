@@ -1,4 +1,4 @@
-place A 2
+place A 3
 place B 0
 
 
@@ -8,6 +8,7 @@ transition T1
 transition T2
 
 
+edge A T1
 edge A T1
 edge A T1
 edge T1 B
